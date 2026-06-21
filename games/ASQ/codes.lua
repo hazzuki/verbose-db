@@ -7,4 +7,5 @@ return {
     "UPD0.5!",
     "Eclipse!",
     "LongMaintenance!",
+    "Tysm80kCCU!",
 }
